@@ -57,3 +57,7 @@ Hackathon project featuring AI-guided heritage learning and backend API integrat
 - LinkedIn: www.linkedin.com/in/kirtan-parsana
 - Email: kirtanparsana05@gmail.com
 - LeetCode: www.leetcode.com/u/kirtanParsana/
+
+## Competitive Programming
+
+-![LeetCode Stats](https://leetcard.jacoblin.cool/kirtanParsana?theme=dark&font=Karma)
